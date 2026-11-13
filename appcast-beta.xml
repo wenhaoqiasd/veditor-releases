@@ -3,6 +3,15 @@
     <channel>
         <title>VEditor Beta</title>
         <item>
+            <title>0.0.1-beta.6</title>
+            <pubDate>Fri, 13 Nov 2026 18:17:17 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>10601</sparkle:version>
+            <sparkle:shortVersionString>0.0.1-beta.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-10601/VEditor-Beta-10601.zip" length="29844313" type="application/octet-stream" sparkle:edSignature="ouBC2Wd0NacZuWZLXkUCMwnc9af7t54r+Q20YsuYSQAXZPfnfJpBMlDHPDLfk4GALuQ/MYqrtLyKH11X8u7ECA==" />
+        </item>
+    <item>
             <title>0.0.1-beta.5</title>
             <pubDate>Fri, 13 Nov 2026 15:29:38 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -10,15 +19,6 @@
             <sparkle:shortVersionString>0.0.1-beta.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-10501/VEditor-Beta-10501.zip" length="29844317" type="application/octet-stream" sparkle:edSignature="s7vKo57d//MrQZMIWVTG6umVDdF24PGJXUBdmwqREtOSkoc4byaVPgmzAWWdEhm/8bwN30bZ4RBJR1znea2BDg==" />
-        </item>
-    <item>
-            <title>0.0.1-beta.4</title>
-            <pubDate>Thu, 12 Nov 2026 14:24:26 +0000</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>10401</sparkle:version>
-            <sparkle:shortVersionString>0.0.1-beta.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-10401/VEditor-Beta-10401.zip" length="29828582" type="application/octet-stream" sparkle:edSignature="xtLyDs2azsYEFChk7lNpZ9Cgr/UK1Om7vzJAGUN/zYKY7seMyvPNl5WKH1Z9F9GkfHCOtpbvFNuTDuxDTi7XCg==" />
         </item>
     </channel>
 </rss>
