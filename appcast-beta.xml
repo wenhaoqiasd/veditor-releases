@@ -3,6 +3,15 @@
     <channel>
         <title>VEditor Beta</title>
         <item>
+            <title>0.0.1-beta.20</title>
+            <pubDate>Thu, 19 Nov 2026 19:02:56 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>12001</sparkle:version>
+            <sparkle:shortVersionString>0.0.1-beta.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-12001/VEditor-Beta-12001.zip" length="29986197" type="application/octet-stream" sparkle:edSignature="uPaK3gwHwf9OcJouw+fptey7+ly08kccOJXSBRg+VNmjV0qKX75cKE3O+3A6GM/QPFl+j+hOoZXG/qciPxweCw==" />
+        </item>
+    <item>
             <title>0.0.1-beta.19</title>
             <pubDate>Thu, 19 Nov 2026 17:20:14 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -10,15 +19,6 @@
             <sparkle:shortVersionString>0.0.1-beta.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-11901/VEditor-Beta-11901.zip" length="29986440" type="application/octet-stream" sparkle:edSignature="ttc5d786ySjgs6MtwKT/uTIBIZKpI0FxoNL0OXolm25F3G1wV8aVE0T+1wdpbdLH5Own2sNqOd1sDHNUPEmvDg==" />
-        </item>
-    <item>
-            <title>0.0.1-beta.18</title>
-            <pubDate>Thu, 19 Nov 2026 15:59:32 +0000</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>11801</sparkle:version>
-            <sparkle:shortVersionString>0.0.1-beta.18</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-11801/VEditor-Beta-11801.zip" length="29978077" type="application/octet-stream" sparkle:edSignature="gj4O/xiGlPxrMv3kiLxdLPpPKIzAwfpRPYLF9UvLc5Hb5OEC8hw5nTH3nXW2dQCQQxCLPiF5wXp5ra+pWiirCg==" />
         </item>
     </channel>
 </rss>
