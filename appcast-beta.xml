@@ -3,6 +3,15 @@
     <channel>
         <title>VEditor Beta</title>
         <item>
+            <title>0.0.1-beta.19</title>
+            <pubDate>Thu, 19 Nov 2026 17:20:14 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>11901</sparkle:version>
+            <sparkle:shortVersionString>0.0.1-beta.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-11901/VEditor-Beta-11901.zip" length="29986440" type="application/octet-stream" sparkle:edSignature="ttc5d786ySjgs6MtwKT/uTIBIZKpI0FxoNL0OXolm25F3G1wV8aVE0T+1wdpbdLH5Own2sNqOd1sDHNUPEmvDg==" />
+        </item>
+    <item>
             <title>0.0.1-beta.18</title>
             <pubDate>Thu, 19 Nov 2026 15:59:32 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -10,15 +19,6 @@
             <sparkle:shortVersionString>0.0.1-beta.18</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-11801/VEditor-Beta-11801.zip" length="29978077" type="application/octet-stream" sparkle:edSignature="gj4O/xiGlPxrMv3kiLxdLPpPKIzAwfpRPYLF9UvLc5Hb5OEC8hw5nTH3nXW2dQCQQxCLPiF5wXp5ra+pWiirCg==" />
-        </item>
-    <item>
-            <title>0.0.1-beta.17</title>
-            <pubDate>Thu, 19 Nov 2026 11:37:15 +0000</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>11701</sparkle:version>
-            <sparkle:shortVersionString>0.0.1-beta.17</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-11701/VEditor-Beta-11701.zip" length="29977514" type="application/octet-stream" sparkle:edSignature="X4HjUxpNrW8AlJRi2oBFxXL837sp5lHKnaYXxsPBlZlz8FNikJE2Ssjtvnq3UApw1eLjHqNB2wD4kbGYBoiLAw==" />
         </item>
     </channel>
 </rss>
