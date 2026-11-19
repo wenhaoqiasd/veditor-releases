@@ -11,14 +11,5 @@
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-11201/VEditor-Beta-11201.zip" length="29969363" type="application/octet-stream" sparkle:edSignature="BW8Bkjh5fcf/TIfj6VC+uW0pH4OfbTu2qX/h7lHeEdXN3TR19ZiU2f6xx5O0oNEw6ckz/OHAoyz89r9Qqo5RDg==" />
         </item>
-    <item>
-            <title>0.0.1-beta.11</title>
-            <pubDate>Wed, 18 Nov 2026 23:23:07 +0000</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>11101</sparkle:version>
-            <sparkle:shortVersionString>0.0.1-beta.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-11101/VEditor-Beta-11101.zip" length="29968407" type="application/octet-stream" sparkle:edSignature="jo4e0a7CvASDBcwlRnKIizigp9mn9fDJ+yOHSxajVTCJAsjifFLvPfpLJu6cQPTiNnbxd7b2iQnmppeCG+V1Dg==" />
-        </item>
     </channel>
 </rss>
