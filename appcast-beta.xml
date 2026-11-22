@@ -1,8 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>VEditor Beta</title>
+        <title>Vexa Beta</title>
         <item>
+            <title>0.0.1-beta.30</title>
+            <pubDate>Sun, 22 Nov 2026 08:11:45 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>13001</sparkle:version>
+            <sparkle:shortVersionString>0.0.1-beta.30</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-13001/Vexa-Beta-13001.zip" length="30528517" type="application/octet-stream" sparkle:edSignature="ls0qh4nfmFHDPzcByOzr6Ued7kBe1SRnvWG/eYMrhnpDX0TK5DggLLnSeTP1R6GmLhNiid1WJsytax04xgakCw==" />
+        </item>
+    <item>
             <title>0.0.1-beta.24</title>
             <pubDate>Fri, 20 Nov 2026 10:53:17 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -10,15 +19,6 @@
             <sparkle:shortVersionString>0.0.1-beta.24</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-12401/VEditor-Beta-12401.zip" length="29980252" type="application/octet-stream" sparkle:edSignature="dHwOkbhuyM0qvYSjkFzfItJ+HKgN3M9p2gbLft223U3JhJ+/VNAoKLx9DZcqEuksgjriP106fORoLUOF4JczCw==" />
-        </item>
-    <item>
-            <title>0.0.1-beta.23</title>
-            <pubDate>Fri, 20 Nov 2026 08:36:48 +0000</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>12301</sparkle:version>
-            <sparkle:shortVersionString>0.0.1-beta.23</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-12301/VEditor-Beta-12301.zip" length="29990283" type="application/octet-stream" sparkle:edSignature="vSiVyJBUMEh1IY5AGLVcwOuWVn5Ie7Z8M/mJxluGLHKoGsHocVsfQoqTCXjwCQwn2Xw+QH1gdq/Z0qSc0aL/DQ==" />
         </item>
     </channel>
 </rss>
