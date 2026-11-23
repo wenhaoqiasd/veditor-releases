@@ -3,6 +3,15 @@
     <channel>
         <title>Vexa Beta</title>
         <item>
+            <title>0.0.1-beta.35</title>
+            <pubDate>Mon, 23 Nov 2026 04:48:46 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>13501</sparkle:version>
+            <sparkle:shortVersionString>0.0.1-beta.35</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-13501/Vexa-Beta-13501.zip" length="30568413" type="application/octet-stream" sparkle:edSignature="4p0jTvMpPlMdL2HJLyc0XufYbsVJkEn1vu0n4K5GQEYEzy1W/nps+hgjsQIhIAl45nKQYNCn0sATXoE8zpCSCw==" />
+        </item>
+    <item>
             <title>0.0.1-beta.34</title>
             <pubDate>Mon, 23 Nov 2026 04:10:33 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -10,15 +19,6 @@
             <sparkle:shortVersionString>0.0.1-beta.34</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-13401/Vexa-Beta-13401.zip" length="30530053" type="application/octet-stream" sparkle:edSignature="8WIHbyUuVRPII3ZD8ikXF4uBXFDI4boFTDspsTH2paPeWhmAdyt41+HogFmGVHy44aQ/GWXBoiiwpnl+uvf2Aw==" />
-        </item>
-    <item>
-            <title>0.0.1-beta.33</title>
-            <pubDate>Mon, 23 Nov 2026 02:07:32 +0000</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>13301</sparkle:version>
-            <sparkle:shortVersionString>0.0.1-beta.33</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-13301/Vexa-Beta-13301.zip" length="30530033" type="application/octet-stream" sparkle:edSignature="reV+buSZggVL2tWZ9xARdh8mo7E55nYD1qUgwUXXsbrEoaP/zeOBjYBdTvcJLpTFR2SPU9UVtLy4U1fnCUTKAA==" />
         </item>
     </channel>
 </rss>
