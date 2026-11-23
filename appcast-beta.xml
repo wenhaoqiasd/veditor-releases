@@ -3,6 +3,15 @@
     <channel>
         <title>Vexa Beta</title>
         <item>
+            <title>0.0.1-beta.39</title>
+            <pubDate>Mon, 23 Nov 2026 17:07:53 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>13901</sparkle:version>
+            <sparkle:shortVersionString>0.0.1-beta.39</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-13901/Vexa-Beta-13901.zip" length="30574214" type="application/octet-stream" sparkle:edSignature="3qnex1gNtQmmSjNUirdBfAd9sJSjp+vjsOKzvu/z5Tc+AN96Cms/CQOmnmTZSp7+O4JKy/U0o5mjTP9+UgZbAg==" />
+        </item>
+    <item>
             <title>0.0.1-beta.38</title>
             <pubDate>Mon, 23 Nov 2026 09:57:32 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -10,15 +19,6 @@
             <sparkle:shortVersionString>0.0.1-beta.38</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-13801/Vexa-Beta-13801.zip" length="30571511" type="application/octet-stream" sparkle:edSignature="8RB6Ai2t/BlPpEJOmhCW5E0s3U9Cw9bkvZpiLgkOAThcUyo1MR+BMPVEEokV7eU4qDOo3iU2H9ZiSdXgFpysBg==" />
-        </item>
-    <item>
-            <title>0.0.1-beta.37</title>
-            <pubDate>Mon, 23 Nov 2026 09:30:55 +0000</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>13701</sparkle:version>
-            <sparkle:shortVersionString>0.0.1-beta.37</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-13701/Vexa-Beta-13701.zip" length="30571309" type="application/octet-stream" sparkle:edSignature="BgzHHIPHbkmfGEEd4zDT3gotZPv8J//7C4HRNs/JN5Ex2DM/Bo3wERTrRg0DByLOHHob+la24dersGtNKLYdCQ==" />
         </item>
     </channel>
 </rss>
