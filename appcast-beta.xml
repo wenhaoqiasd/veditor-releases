@@ -3,6 +3,15 @@
     <channel>
         <title>Vexa Beta</title>
         <item>
+            <title>0.0.1-beta.46</title>
+            <pubDate>Tue, 24 Nov 2026 07:16:31 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>14601</sparkle:version>
+            <sparkle:shortVersionString>0.0.1-beta.46</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-14601/Vexa-Beta-14601.zip" length="30591602" type="application/octet-stream" sparkle:edSignature="idtoMD3GevrARVyXtipi44UFeJ30oKXeEmZ/RbnGQOqOIWMK/ZvST7AaizUSPd+gg5ncwpusI5BOJeHdYHIuCQ==" />
+        </item>
+    <item>
             <title>0.0.1-beta.45</title>
             <pubDate>Tue, 24 Nov 2026 06:11:11 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -10,15 +19,6 @@
             <sparkle:shortVersionString>0.0.1-beta.45</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-14501/Vexa-Beta-14501.zip" length="30591334" type="application/octet-stream" sparkle:edSignature="8/8sDRoyFVbM6jt7mlvvEI4+OEL6F3y2r6sJ9euBDPJ8edx/BCiSRL5fYBAYN50RWVUyZumeKWSi85ZYbZxxAA==" />
-        </item>
-    <item>
-            <title>0.0.1-beta.44</title>
-            <pubDate>Tue, 24 Nov 2026 05:52:15 +0000</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>14401</sparkle:version>
-            <sparkle:shortVersionString>0.0.1-beta.44</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-14401/Vexa-Beta-14401.zip" length="30591210" type="application/octet-stream" sparkle:edSignature="MUNZ+WSiBgdTXPV5LHg3Mzhzqg/rTc1GmYv4Uhvo+KMzeDg+VUIg6OlMkj9OgELKwlFHd23uxxXcMraNIXkvBg==" />
         </item>
     </channel>
 </rss>
