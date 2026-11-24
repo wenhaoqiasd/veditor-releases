@@ -3,6 +3,15 @@
     <channel>
         <title>Vexa Beta</title>
         <item>
+            <title>0.0.1-beta.45</title>
+            <pubDate>Tue, 24 Nov 2026 06:11:11 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>14501</sparkle:version>
+            <sparkle:shortVersionString>0.0.1-beta.45</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-14501/Vexa-Beta-14501.zip" length="30591334" type="application/octet-stream" sparkle:edSignature="8/8sDRoyFVbM6jt7mlvvEI4+OEL6F3y2r6sJ9euBDPJ8edx/BCiSRL5fYBAYN50RWVUyZumeKWSi85ZYbZxxAA==" />
+        </item>
+    <item>
             <title>0.0.1-beta.44</title>
             <pubDate>Tue, 24 Nov 2026 05:52:15 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -10,15 +19,6 @@
             <sparkle:shortVersionString>0.0.1-beta.44</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-14401/Vexa-Beta-14401.zip" length="30591210" type="application/octet-stream" sparkle:edSignature="MUNZ+WSiBgdTXPV5LHg3Mzhzqg/rTc1GmYv4Uhvo+KMzeDg+VUIg6OlMkj9OgELKwlFHd23uxxXcMraNIXkvBg==" />
-        </item>
-    <item>
-            <title>0.0.1-beta.41</title>
-            <pubDate>Tue, 24 Nov 2026 04:11:06 +0000</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>14101</sparkle:version>
-            <sparkle:shortVersionString>0.0.1-beta.41</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-14101/Vexa-Beta-14101.zip" length="30590049" type="application/octet-stream" sparkle:edSignature="fiNZ0RB61swAPEwZy7X+TGtCiQc7Cib83IzapysxiNLI/Ah8P7bd5H/mqaXsghs0vLmM5v75UcHJ1q4EWkmhCQ==" />
         </item>
     </channel>
 </rss>
