@@ -3,6 +3,15 @@
     <channel>
         <title>Vexa Beta</title>
         <item>
+            <title>0.0.1-beta.47</title>
+            <pubDate>Wed, 25 Nov 2026 22:34:22 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>14701</sparkle:version>
+            <sparkle:shortVersionString>0.0.1-beta.47</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-14701/Vexa-Beta-14701.zip" length="30734940" type="application/octet-stream" sparkle:edSignature="xZCZ9ixD8blM0Dtr4b17ouLbAnnTNb2deKu+FHaEs3TCZksc2iexZyPFDvebIZD61HeVINz2vCSjFfDqYbqxCA==" />
+        </item>
+    <item>
             <title>0.0.1-beta.46</title>
             <pubDate>Tue, 24 Nov 2026 07:16:31 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -10,15 +19,6 @@
             <sparkle:shortVersionString>0.0.1-beta.46</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-14601/Vexa-Beta-14601.zip" length="30591602" type="application/octet-stream" sparkle:edSignature="idtoMD3GevrARVyXtipi44UFeJ30oKXeEmZ/RbnGQOqOIWMK/ZvST7AaizUSPd+gg5ncwpusI5BOJeHdYHIuCQ==" />
-        </item>
-    <item>
-            <title>0.0.1-beta.45</title>
-            <pubDate>Tue, 24 Nov 2026 06:11:11 +0000</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>14501</sparkle:version>
-            <sparkle:shortVersionString>0.0.1-beta.45</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-14501/Vexa-Beta-14501.zip" length="30591334" type="application/octet-stream" sparkle:edSignature="8/8sDRoyFVbM6jt7mlvvEI4+OEL6F3y2r6sJ9euBDPJ8edx/BCiSRL5fYBAYN50RWVUyZumeKWSi85ZYbZxxAA==" />
         </item>
     </channel>
 </rss>
