@@ -3,6 +3,15 @@
     <channel>
         <title>Vexa Beta</title>
         <item>
+            <title>0.0.1-beta.56</title>
+            <pubDate>Sat, 28 Nov 2026 01:56:29 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>15601</sparkle:version>
+            <sparkle:shortVersionString>0.0.1-beta.56</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-15601/Vexa-Beta-15601.zip" length="31351230" type="application/octet-stream" sparkle:edSignature="KM7JczxAH4ZGpgwVC8iHtJYBmEObgsrpvA6HVkHFWYslBs9+tm0CHxP0lRlBO+LY5PdjhXEZCGSSlBgv0fwKBA==" />
+        </item>
+    <item>
             <title>0.0.1-beta.55</title>
             <pubDate>Fri, 27 Nov 2026 09:38:27 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -10,15 +19,6 @@
             <sparkle:shortVersionString>0.0.1-beta.55</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-15501/Vexa-Beta-15501.zip" length="31337303" type="application/octet-stream" sparkle:edSignature="WAPEMtWQwy0MSJIaZqWINI3BS8XKezqH30WPFehYStOPASUYvlu5ka2JfxBYpdSI9/qSQBf6eT2MSyouyFxgAQ==" />
-        </item>
-    <item>
-            <title>0.0.1-beta.54</title>
-            <pubDate>Fri, 27 Nov 2026 00:48:49 +0000</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>15401</sparkle:version>
-            <sparkle:shortVersionString>0.0.1-beta.54</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wenhaoqiasd/veditor-releases/releases/download/beta-15401/Vexa-Beta-15401.zip" length="31319567" type="application/octet-stream" sparkle:edSignature="IGYVn1rybHe0Z+Zm5lgFCswbqdNNZsIPLwGPQxLVscmSm//cvQwR7kpS6fu8i31oKTB6U68HJwwtvTBJc6NXAw==" />
         </item>
     </channel>
 </rss>
